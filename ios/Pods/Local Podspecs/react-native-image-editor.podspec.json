@@ -1,0 +1,24 @@
+{
+  "name": "react-native-image-editor",
+  "version": "2.3.0",
+  "summary": "React Native Image Editing native modules for iOS & Android",
+  "license": "MIT",
+  "authors": "Dawid Urbaniak <dawidu@onet.pl>",
+  "homepage": "https://github.com/react-native-community/react-native-image-editor#readme",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/react-native-community/react-native-image-editor.git",
+    "tag": "2.3.0"
+  },
+  "source_files": "ios/**/*.{h,m}",
+  "dependencies": {
+    "React": [
+
+    ],
+    "React-RCTImage": [
+
+    ]
+  }
+}
